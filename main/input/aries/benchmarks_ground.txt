@@ -525,7 +525,6 @@
 ../benchmarks/domrep/scanalyzer-opt11-strips/domain-pp16-err-rate-0-1.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/pp16-err-rate-0-1.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/plans/pp16-err-rate-0-1.plan
 ../benchmarks/domrep/scanalyzer-opt11-strips/domain-pp19-err-rate-0-3.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/pp19-err-rate-0-3.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/plans/pp19-err-rate-0-3.plan
 ../benchmarks/domrep/scanalyzer-opt11-strips/domain-pp05-err-rate-0-5.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/pp05-err-rate-0-5.pddl ../benchmarks/domrep/scanalyzer-opt11-strips/plans/pp05-err-rate-0-5.plan
-../benchmarks/domrep/tidybot-sat11-strips/domain-pp09-err-rate-0-1.pddl ../benchmarks/domrep/tidybot-sat11-strips/pp09-err-rate-0-1.pddl ../benchmarks/domrep/tidybot-sat11-strips/plans/pp09-err-rate-0-1.plan
 ../benchmarks/domrep/tidybot-sat11-strips/domain-pp08-err-rate-0-1.pddl ../benchmarks/domrep/tidybot-sat11-strips/pp08-err-rate-0-1.pddl ../benchmarks/domrep/tidybot-sat11-strips/plans/pp08-err-rate-0-1.plan
 ../benchmarks/domrep/tidybot-sat11-strips/domain-pp08-err-rate-0-5.pddl ../benchmarks/domrep/tidybot-sat11-strips/pp08-err-rate-0-5.pddl ../benchmarks/domrep/tidybot-sat11-strips/plans/pp08-err-rate-0-5.plan
 ../benchmarks/domrep/tidybot-sat11-strips/domain-pp17-err-rate-0-5.pddl ../benchmarks/domrep/tidybot-sat11-strips/pp17-err-rate-0-5.pddl ../benchmarks/domrep/tidybot-sat11-strips/plans/pp17-err-rate-0-5.plan
@@ -1603,11 +1602,9 @@
 ../benchmarks/domrep/satellite/domain-pp29-HC-pfile9-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp29-HC-pfile9-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp29-HC-pfile9-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp31-HC-pfile11-err-rate-0-3.pddl ../benchmarks/domrep/satellite/pp31-HC-pfile11-err-rate-0-3.pddl ../benchmarks/domrep/satellite/plans/pp31-HC-pfile11-err-rate-0-3.plan
 ../benchmarks/domrep/satellite/domain-pp36-HC-pfile16-err-rate-0-3.pddl ../benchmarks/domrep/satellite/pp36-HC-pfile16-err-rate-0-3.pddl ../benchmarks/domrep/satellite/plans/pp36-HC-pfile16-err-rate-0-3.plan
-../benchmarks/domrep/satellite/domain-pp24-HC-pfile4-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp24-HC-pfile4-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp24-HC-pfile4-err-rate-0-1.plan
 ../benchmarks/domrep/satellite/domain-pp05-pfile5-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp05-pfile5-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp05-pfile5-err-rate-0-1.plan
 ../benchmarks/domrep/satellite/domain-pp12-pfile12-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp12-pfile12-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp12-pfile12-err-rate-0-1.plan
 ../benchmarks/domrep/satellite/domain-pp31-HC-pfile11-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp31-HC-pfile11-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp31-HC-pfile11-err-rate-0-1.plan
-../benchmarks/domrep/satellite/domain-pp31-HC-pfile11-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp31-HC-pfile11-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp31-HC-pfile11-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp08-pfile8-err-rate-0-3.pddl ../benchmarks/domrep/satellite/pp08-pfile8-err-rate-0-3.pddl ../benchmarks/domrep/satellite/plans/pp08-pfile8-err-rate-0-3.plan
 ../benchmarks/domrep/satellite/domain-pp11-pfile11-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp11-pfile11-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp11-pfile11-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp30-HC-pfile10-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp30-HC-pfile10-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp30-HC-pfile10-err-rate-0-5.plan
@@ -1617,7 +1614,6 @@
 ../benchmarks/domrep/satellite/domain-pp06-pfile6-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp06-pfile6-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp06-pfile6-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp34-HC-pfile14-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp34-HC-pfile14-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp34-HC-pfile14-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp29-HC-pfile9-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp29-HC-pfile9-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp29-HC-pfile9-err-rate-0-1.plan
-../benchmarks/domrep/satellite/domain-pp04-pfile4-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp04-pfile4-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp04-pfile4-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp27-HC-pfile7-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp27-HC-pfile7-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp27-HC-pfile7-err-rate-0-1.plan
 ../benchmarks/domrep/satellite/domain-pp25-HC-pfile5-err-rate-0-5.pddl ../benchmarks/domrep/satellite/pp25-HC-pfile5-err-rate-0-5.pddl ../benchmarks/domrep/satellite/plans/pp25-HC-pfile5-err-rate-0-5.plan
 ../benchmarks/domrep/satellite/domain-pp16-pfile16-err-rate-0-1.pddl ../benchmarks/domrep/satellite/pp16-pfile16-err-rate-0-1.pddl ../benchmarks/domrep/satellite/plans/pp16-pfile16-err-rate-0-1.plan
@@ -3238,7 +3234,6 @@
 ../benchmarks/domrep/mprime/domain-pprob14-err-rate-0-5.pddl ../benchmarks/domrep/mprime/pprob14-err-rate-0-5.pddl ../benchmarks/domrep/mprime/plans/pprob14-err-rate-0-5.plan
 ../benchmarks/domrep/mprime/domain-pprob22-err-rate-0-3.pddl ../benchmarks/domrep/mprime/pprob22-err-rate-0-3.pddl ../benchmarks/domrep/mprime/plans/pprob22-err-rate-0-3.plan
 ../benchmarks/domrep/mprime/domain-pprob34-err-rate-0-1.pddl ../benchmarks/domrep/mprime/pprob34-err-rate-0-1.pddl ../benchmarks/domrep/mprime/plans/pprob34-err-rate-0-1.plan
-../benchmarks/domrep/mprime/domain-pprob14-err-rate-0-1.pddl ../benchmarks/domrep/mprime/pprob14-err-rate-0-1.pddl ../benchmarks/domrep/mprime/plans/pprob14-err-rate-0-1.plan
 ../benchmarks/domrep/mprime/domain-pprob09-err-rate-0-5.pddl ../benchmarks/domrep/mprime/pprob09-err-rate-0-5.pddl ../benchmarks/domrep/mprime/plans/pprob09-err-rate-0-5.plan
 ../benchmarks/domrep/mprime/domain-pprob34-err-rate-0-3.pddl ../benchmarks/domrep/mprime/pprob34-err-rate-0-3.pddl ../benchmarks/domrep/mprime/plans/pprob34-err-rate-0-3.plan
 ../benchmarks/domrep/mprime/domain-pprob06-err-rate-0-3.pddl ../benchmarks/domrep/mprime/pprob06-err-rate-0-3.pddl ../benchmarks/domrep/mprime/plans/pprob06-err-rate-0-3.plan
@@ -4326,10 +4321,8 @@
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-12-8-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-8-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-8-err-rate-0-1.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-12-6-err-rate-0-3.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-6-err-rate-0-3.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-6-err-rate-0-3.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-10-6-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/pd-10-6-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-10-6-err-rate-0-5.plan
-../benchmarks/domrep/ged-sat14-strips/domain-pd-12-5-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-5-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-5-err-rate-0-5.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-12-2-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-2-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-2-err-rate-0-1.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-12-7-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-7-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-7-err-rate-0-5.plan
-../benchmarks/domrep/ged-sat14-strips/domain-pd-12-9-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-9-err-rate-0-5.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-9-err-rate-0-5.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-10-6-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/pd-10-6-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-10-6-err-rate-0-1.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-10-5-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/pd-10-5-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-10-5-err-rate-0-1.plan
 ../benchmarks/domrep/ged-sat14-strips/domain-pd-12-5-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/pd-12-5-err-rate-0-1.pddl ../benchmarks/domrep/ged-sat14-strips/plans/pd-12-5-err-rate-0-1.plan
