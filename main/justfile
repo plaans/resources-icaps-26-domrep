@@ -48,9 +48,9 @@ assert_repair_sizes:
 
 parse_logs_all: 
     just parse_logs_ground
-    just parse_logs_lifted_standard_033
-    just parse_logs_lifted_standard_066
-    just parse_logs_lifted_standard_100
+    #just parse_logs_lifted_standard_033
+    #just parse_logs_lifted_standard_066
+    #just parse_logs_lifted_standard_100
     just parse_logs_lifted_independent_033
     just parse_logs_lifted_independent_066
     just parse_logs_lifted_independent_100
