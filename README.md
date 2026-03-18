@@ -14,7 +14,7 @@ Paper: "A Constraint Formulation for Domain Repair with Ground or Lifted Test Pl
 - `main`:
 
     - `aries`:
-        - `aries`: Git submodule of Aries. Needed if you want to build it yourself using `cargo build --release`. The path to the binary to use (see `justfile`) will have to point to `[this-folder]/aries/aries/target/release/aries-plan-engine`. **Note that this binary will use the "standard" plan parser, not the "modified" one (see below)**.
+        - `aries`: Git submodule of Aries. Needed if you want to build it yourself using `cargo build --release`. To clone the repository with the submodule, be sure to use `git clone --recursive git@github.com:plaans/resources-icaps-26-domrep.git [your-local-folder]`. The path to the binary to use (see `justfile`) will have to point to `[your-local-folder]/aries/aries/target/release/aries-plan-engine`. **Note that this binary will use the "standard" plan parser, not the "modified" one (see below)**.
         - `default-bin`: Includes default `aries` binaries that you can use if you do not want to build it yourself in the submodule.
             - `standard`: The contained binary uses the "standard" plan parser, which interprets all lifted arguments of the same name as the same variable (enforcing all occurrences of a lifted argument to be grounded identically).
             - `independent`: The contained binary uses the "modified" plan parser, which interprets each lifted argument as an independent plan variable, even if it shares its name with another one. **This is the configuration used in the experiments reported in the paper to ensure a fair comparison with the baseline, as it is this interpretation followed by it.**
