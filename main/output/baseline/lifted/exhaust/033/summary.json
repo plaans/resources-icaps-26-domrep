@@ -1,0 +1,1880 @@
+{
+    "baseline_lifted_033_exhaust": {
+    "instances": {
+        "logistics00__pprobLOGISTICS-6-1-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 9730.0
+        },
+        "zenotravel__pp03-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 8788.0
+        },
+        "miconic__ps1-1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 158.0
+        },
+        "mystery__pprob20-err-rate-0-3": {
+            "success": 0
+        },
+        "transport-opt08-strips__pp11-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 594.0
+        },
+        "mprime__pprob32-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp11-err-rate-0-3": {
+            "success": 0
+        },
+        "tpp__pp03-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 824.0
+        },
+        "miconic__ps3-4-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 971.0
+        },
+        "hiking-opt14-strips__pptesting-2-2-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1311.0
+        },
+        "freecell__pp02-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob34-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pp02-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob23-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-opt14-strips__pptesting-1-2-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 765.0
+        },
+        "pegsol-08-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2197.0
+        },
+        "mprime__pprob01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 94630.0
+        },
+        "tpp__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 340.0
+        },
+        "scanalyzer-opt11-strips__pp20-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob03-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob30-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob33-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-opt14-strips__pptesting-2-4-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1107.0
+        },
+        "mprime__pprob35-err-rate-0-5": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem02-full-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 165.0
+        },
+        "zenotravel__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 28704.0
+        },
+        "zenotravel__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 7928.0
+        },
+        "blocks__pprobBLOCKS-6-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 636.0
+        },
+        "mystery__pprob11-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 364527.0
+        },
+        "satellite__pp02-pfile2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 5232.0
+        },
+        "freecell__pprobfreecell-3-3-err-rate-0-1": {
+            "success": 0
+        },
+        "nomystery-opt11-strips__pp02-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp04-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2814.0
+        },
+        "scanalyzer-08-strips__pp23-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1671.0
+        },
+        "scanalyzer-08-strips__pp22-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1662.0
+        },
+        "miconic__ps2-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 414.0
+        },
+        "scanalyzer-08-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2185.0
+        },
+        "miconic__ps2-4-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 516.0
+        },
+        "scanalyzer-opt11-strips__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2836.0
+        },
+        "driverlog__pp03-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4120.0
+        },
+        "scanalyzer-opt11-strips__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1913.0
+        },
+        "mprime__pprob29-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob15-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp25-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob27-err-rate-0-5": {
+            "success": 0
+        },
+        "gripper__pprob01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1310.0
+        },
+        "blocks__pprobBLOCKS-5-1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 440.0
+        },
+        "miconic__ps3-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 901.0
+        },
+        "mprime__pprob07-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-3-4-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps3-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 882.0
+        },
+        "mprime__pprob14-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob02-err-rate-0-3": {
+            "success": 0
+        },
+        "mystery__pprob01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 82940.0
+        },
+        "nomystery-opt11-strips__pp02-err-rate-0-5": {
+            "success": 0
+        },
+        "miconic__ps1-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 194.0
+        },
+        "mprime__pprob09-err-rate-0-3": {
+            "success": 0
+        },
+        "tpp__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 208.0
+        },
+        "mprime__pprob09-err-rate-0-5": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2088.0
+        },
+        "freecell__pprobfreecell-2-3-err-rate-0-1": {
+            "success": 0
+        },
+        "zenotravel__pp05-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 18916.0
+        },
+        "miconic__ps1-4-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 163.0
+        },
+        "miconic__ps2-1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 429.0
+        },
+        "mprime__pprob02-err-rate-0-1": {
+            "success": 0
+        },
+        "elevators-opt08-strips__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2557.0
+        },
+        "mprime__pprob21-err-rate-0-3": {
+            "success": 0
+        },
+        "zenotravel__pp03-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 8745.0
+        },
+        "miconic__ps2-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 442.0
+        },
+        "miconic__ps1-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 199.0
+        },
+        "freecell__pprobfreecell-2-5-err-rate-0-1": {
+            "success": 0
+        },
+        "miconic__ps2-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 289.0
+        },
+        "driverlog__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 717.0
+        },
+        "driverlog__pp03-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 7369.0
+        },
+        "pegsol-08-strips__pp03-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2821.0
+        },
+        "visitall-opt11-strips__pproblem04-half-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 648.0
+        },
+        "grid__pprob01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 15698.0
+        },
+        "mprime__pprob35-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-3-5-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp28-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob11-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 291572.0
+        },
+        "miconic__ps1-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 218.0
+        },
+        "mprime__pprob01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 94685.0
+        },
+        "mystery__pprob11-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 340070.0
+        },
+        "transport-sat08-strips__pp21-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 606.0
+        },
+        "miconic__ps2-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 248.0
+        },
+        "tpp__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 193.0
+        },
+        "satellite__pp03-pfile3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4578.0
+        },
+        "scanalyzer-sat11-strips__pp01-err-rate-0-5": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp22-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2037.0
+        },
+        "mprime__pprob02-err-rate-0-5": {
+            "success": 0
+        },
+        "zenotravel__pp08-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 245061.0
+        },
+        "mprime__pprob15-err-rate-0-1": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem03-half-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 393.0
+        },
+        "miconic__ps1-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 132.0
+        },
+        "pegsol-08-strips__pp05-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 3489.0
+        },
+        "pegsol-08-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1421.0
+        },
+        "mprime__pprob32-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob28-err-rate-0-3": {
+            "success": 0
+        },
+        "mystery__pprob30-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob20-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob03-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob14-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps1-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 135.0
+        },
+        "mystery__pprob14-err-rate-0-5": {
+            "success": 0
+        },
+        "elevators-opt08-strips__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1517.0
+        },
+        "mprime__pprob08-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-agl14-strips__ptesting-4-5-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 13693.0
+        },
+        "mystery__pprob26-err-rate-0-1": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp11-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 758.0
+        },
+        "transport-opt08-strips__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1211.0
+        },
+        "miconic__ps1-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 169.0
+        },
+        "pegsol-08-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1719.0
+        },
+        "satellite__pp02-pfile2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 6413.0
+        },
+        "satellite__pp03-pfile3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4427.0
+        },
+        "logistics00__pprobLOGISTICS-5-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1502.0
+        },
+        "nomystery-opt11-strips__pp12-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 339763.0
+        },
+        "tetris-opt14-strips__pp03-4-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 5714.0
+        },
+        "mystery__pprob29-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob28-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 882241.0
+        },
+        "mprime__pprob01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 67258.0
+        },
+        "transport-opt08-strips__pp22-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 4360.0
+        },
+        "scanalyzer-sat11-strips__pp18-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob05-err-rate-0-1": {
+            "success": 0
+        },
+        "miconic__ps1-4-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 197.0
+        },
+        "transport-sat08-strips__pp21-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 659.0
+        },
+        "mprime__pprob30-err-rate-0-5": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem02-full-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 157.0
+        },
+        "logistics98__pprob31-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 3,
+            "total_time": 34043.0
+        },
+        "miconic__ps3-4-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1311.0
+        },
+        "freecell__pp01-err-rate-0-1": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-4-1-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 328.0
+        },
+        "mprime__pprob22-err-rate-0-3": {
+            "success": 0
+        },
+        "rovers__pp04-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 851.0
+        },
+        "scanalyzer-08-strips__pp23-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1996.0
+        },
+        "nomystery-opt11-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 190091.0
+        },
+        "satellite__pp03-pfile3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 7669.0
+        },
+        "gripper__pprob01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1022.9999999999999
+        },
+        "mystery__pprob29-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp25-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-opt08-strips__pp21-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 505.0
+        },
+        "mystery__pprob15-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob27-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob17-err-rate-0-5": {
+            "success": 0
+        },
+        "rovers__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 803.0
+        },
+        "mystery__pprob14-err-rate-0-1": {
+            "success": 0
+        },
+        "miconic__ps4-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1616.0
+        },
+        "freecell__pprobfreecell-2-1-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob25-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 38650.0
+        },
+        "scanalyzer-08-strips__pp28-err-rate-0-1": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-6-1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1280.0
+        },
+        "zenotravel__pp06-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 23815.0
+        },
+        "miconic__ps3-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1111.0
+        },
+        "scanalyzer-sat11-strips__pp18-err-rate-0-5": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp24-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 3405.0
+        },
+        "tpp__pp03-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 794.0
+        },
+        "blocks__pprobBLOCKS-5-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 563.0
+        },
+        "mprime__pprob21-err-rate-0-5": {
+            "success": 0
+        },
+        "zenotravel__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 8186.0
+        },
+        "transport-opt08-strips__pp11-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 471.0
+        },
+        "hiking-opt14-strips__pptesting-1-2-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 833.0
+        },
+        "tetris-opt14-strips__pp03-4-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 6339.0
+        },
+        "logistics00__pprobLOGISTICS-5-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2127.0
+        },
+        "mprime__pprob29-err-rate-0-3": {
+            "success": 0
+        },
+        "transport-opt14-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2214.0
+        },
+        "zenotravel__pp06-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 25489.0
+        },
+        "logistics98__pprob31-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 18946.0
+        },
+        "visitall-opt11-strips__pproblem02-half-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 81.0
+        },
+        "pegsol-08-strips__pp03-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 3677.0
+        },
+        "miconic__ps2-4-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 490.0
+        },
+        "mprime__pprob31-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob02-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob20-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob03-err-rate-0-5": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-4-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 311.0
+        },
+        "mystery__pprob28-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 855931.0
+        },
+        "mprime__pprob09-err-rate-0-1": {
+            "success": 0
+        },
+        "nomystery-opt11-strips__pp11-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 17307.0
+        },
+        "mystery__pprob02-err-rate-0-1": {
+            "success": 0
+        },
+        "rovers__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 808.0
+        },
+        "visitall-opt11-strips__pproblem02-full-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 149.0
+        },
+        "rovers__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 5,
+            "total_time": 14443.0
+        },
+        "mprime__pprob35-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob03-err-rate-0-1": {
+            "success": 0
+        },
+        "pegsol-08-strips__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 3789.0
+        },
+        "transport-opt08-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 286.0
+        },
+        "zenotravel__pp03-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 9166.0
+        },
+        "mprime__pprob07-err-rate-0-1": {
+            "success": 0
+        },
+        "freecell__pp02-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob25-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 33968.0
+        },
+        "miconic__ps1-1-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 178.0
+        },
+        "freecell__pprobfreecell-3-4-err-rate-0-5": {
+            "success": 0
+        },
+        "zenotravel__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 22459.0
+        },
+        "mprime__pprob26-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp20-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob02-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps1-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 202.0
+        },
+        "zenotravel__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1126.0
+        },
+        "transport-opt08-strips__pp21-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 350.0
+        },
+        "logistics00__pprobLOGISTICS-6-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 10933.0
+        },
+        "mprime__pprob10-err-rate-0-1": {
+            "success": 0
+        },
+        "miconic__ps2-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 413.0
+        },
+        "mystery__pprob26-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob22-err-rate-0-5": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-2-4-err-rate-0-3": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-5-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1758.0
+        },
+        "logistics98__pprob31-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 13928.0
+        },
+        "mystery__pprob09-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob15-err-rate-0-5": {
+            "success": 0
+        },
+        "miconic__ps3-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 943.0
+        },
+        "nomystery-opt11-strips__pp13-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 137997.0
+        },
+        "mprime__pprob15-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2775.0
+        },
+        "transport-opt08-strips__pp21-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 421.0
+        },
+        "scanalyzer-08-strips__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2458.0
+        },
+        "rovers__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 925.0
+        },
+        "mystery__pprob25-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 33185.0
+        },
+        "blocks__pprobBLOCKS-5-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 427.0
+        },
+        "driverlog__pp03-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 3475.0
+        },
+        "mprime__pprob19-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-opt08-strips__pp22-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1614.0
+        },
+        "mystery__pprob28-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 744879.0
+        },
+        "hiking-agl14-strips__ptesting-3-4-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4408.0
+        },
+        "visitall-opt11-strips__pproblem02-half-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 98.0
+        },
+        "logistics00__pprobLOGISTICS-4-2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4226.0
+        },
+        "transport-opt08-strips__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1072.0
+        },
+        "miconic__ps3-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1172.0
+        },
+        "scanalyzer-08-strips__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 3478.0
+        },
+        "mystery__pprob10-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 81833.0
+        },
+        "blocks__pprobBLOCKS-4-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 438.0
+        },
+        "miconic__ps2-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 314.0
+        },
+        "freecell__pprobfreecell-3-2-err-rate-0-1": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-4-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 258.0
+        },
+        "transport-opt08-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 341.0
+        },
+        "depot__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2732.0
+        },
+        "tetris-opt14-strips__pp02-4-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 10501.0
+        },
+        "mystery__pprob27-err-rate-0-1": {
+            "success": 0
+        },
+        "miconic__ps2-1-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 510.0
+        },
+        "mprime__pprob33-err-rate-0-5": {
+            "success": 0
+        },
+        "tpp__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 708.0
+        },
+        "mprime__pprob17-err-rate-0-3": {
+            "success": 0
+        },
+        "logistics00__pprobLOGISTICS-4-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 3944.0
+        },
+        "freecell__pprobfreecell-2-1-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob16-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob32-err-rate-0-1": {
+            "success": 0
+        },
+        "transport-opt14-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1241.0
+        },
+        "elevators-opt08-strips__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1570.0
+        },
+        "scanalyzer-opt11-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1541.0
+        },
+        "nomystery-opt11-strips__pp11-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 13755.0
+        },
+        "blocks__pprobBLOCKS-6-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 568.0
+        },
+        "nomystery-opt11-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 25538.0
+        },
+        "freecell__pp01-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-opt14-strips__pptesting-2-4-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1293.0
+        },
+        "miconic__ps3-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 664.0
+        },
+        "hiking-agl14-strips__ptesting-3-4-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 13280.0
+        },
+        "mystery__pprob11-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 391680.0
+        },
+        "zenotravel__pp08-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 393755.0
+        },
+        "visitall-opt11-strips__pproblem04-half-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 905.0
+        },
+        "tpp__pp04-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 770.0
+        },
+        "mprime__pprob28-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 824685.0
+        },
+        "freecell__pprobfreecell-2-5-err-rate-0-3": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-5-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 407.0
+        },
+        "scanalyzer-08-strips__pp24-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1723.0
+        },
+        "pegsol-08-strips__pp03-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2693.0
+        },
+        "scanalyzer-sat11-strips__pp18-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-3-4-err-rate-0-1": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem03-full-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 587.0
+        },
+        "mprime__pprob21-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp25-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob23-err-rate-0-5": {
+            "success": 0
+        },
+        "scanalyzer-08-strips__pp22-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1511.0
+        },
+        "driverlog__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 531.0
+        },
+        "scanalyzer-08-strips__pp04-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4463.0
+        },
+        "scanalyzer-08-strips__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1611.0
+        },
+        "mystery__pprob10-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob10-err-rate-0-3": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-5-1-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 445.0
+        },
+        "tpp__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 397.0
+        },
+        "satellite__pp02-pfile2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 4050.0
+        },
+        "tetris-opt14-strips__pp02-4-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 8832.0
+        },
+        "scanalyzer-08-strips__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1658.0
+        },
+        "scanalyzer-08-strips__pp23-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1647.0
+        },
+        "transport-opt08-strips__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1020.0
+        },
+        "logistics00__pprobLOGISTICS-4-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 3,
+            "total_time": 10440.0
+        },
+        "rovers__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 3,
+            "total_time": 2809.0
+        },
+        "nomystery-opt11-strips__pp13-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 163650.0
+        },
+        "mprime__pprob17-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp21-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 602.0
+        },
+        "rovers__pp03-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1365.0
+        },
+        "zenotravel__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1326.0
+        },
+        "rovers__pp03-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1297.0
+        },
+        "scanalyzer-opt11-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1766.0
+        },
+        "hiking-opt14-strips__pptesting-2-4-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1047.0
+        },
+        "mystery__pprob30-err-rate-0-1": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-3-5-err-rate-0-5": {
+            "success": 0
+        },
+        "pegsol-08-strips__pp04-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2827.0
+        },
+        "mprime__pprob24-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 580.0
+        },
+        "depot__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 3002.0
+        },
+        "scanalyzer-opt11-strips__pp11-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob34-err-rate-0-1": {
+            "success": 0
+        },
+        "rovers__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1250.0
+        },
+        "mprime__pprob23-err-rate-0-1": {
+            "success": 0
+        },
+        "satellite__pp01-pfile1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1193.0
+        },
+        "mprime__pprob20-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob24-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob20-err-rate-0-3": {
+            "success": 0
+        },
+        "tetris-opt14-strips__pp03-4-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 13243.0
+        },
+        "blocks__pprobBLOCKS-4-2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 407.0
+        },
+        "transport-opt08-strips__pp22-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1262.0
+        },
+        "mprime__pprob29-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob26-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob17-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-sat11-strips__pp01-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob07-err-rate-0-5": {
+            "success": 0
+        },
+        "miconic__ps2-4-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 425.0
+        },
+        "scanalyzer-08-strips__pp24-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1532.0
+        },
+        "pegsol-08-strips__pp02-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2262.0
+        },
+        "transport-opt08-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 336.0
+        },
+        "blocks__pprobBLOCKS-6-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 618.0
+        },
+        "visitall-opt11-strips__pproblem03-half-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 508.0
+        },
+        "freecell__pprobfreecell-3-1-err-rate-0-1": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-2-2-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps2-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 422.0
+        },
+        "blocks__pprobBLOCKS-6-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 511.0
+        },
+        "mystery__pprob03-err-rate-0-5": {
+            "success": 0
+        },
+        "hiking-opt14-strips__pptesting-2-2-3-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 817.0
+        },
+        "blocks__pprobBLOCKS-4-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 378.0
+        },
+        "freecell__pprobfreecell-3-2-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 522.0
+        },
+        "freecell__pprobfreecell-3-3-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob10-err-rate-0-5": {
+            "success": 0
+        },
+        "miconic__ps1-2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 140.0
+        },
+        "miconic__ps1-4-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 188.0
+        },
+        "visitall-opt11-strips__pproblem03-half-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 611.0
+        },
+        "miconic__ps3-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 775.0
+        },
+        "mprime__pprob31-err-rate-0-3": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem03-full-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 532.0
+        },
+        "pegsol-08-strips__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1972.0
+        },
+        "mystery__pprob19-err-rate-0-3": {
+            "success": 0
+        },
+        "grid__pprob01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 8826.0
+        },
+        "nomystery-opt11-strips__pp12-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 373737.0
+        },
+        "mprime__pprob04-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob33-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 3279.0
+        },
+        "pegsol-08-strips__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2695.0
+        },
+        "hiking-opt14-strips__pptesting-1-2-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1441.0
+        },
+        "zenotravel__pp02-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 8446.0
+        },
+        "mprime__pprob31-err-rate-0-5": {
+            "success": 0
+        },
+        "logistics00__pprobLOGISTICS-5-2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1174.0
+        },
+        "tpp__pp02-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 403.0
+        },
+        "miconic__ps2-2-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 479.0
+        },
+        "blocks__pprobBLOCKS-4-1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 324.0
+        },
+        "mprime__pprob22-err-rate-0-1": {
+            "success": 0
+        },
+        "mprime__pprob26-err-rate-0-3": {
+            "success": 0
+        },
+        "mystery__pprob26-err-rate-0-3": {
+            "success": 0
+        },
+        "tpp__pp03-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 797.0
+        },
+        "mprime__pprob30-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-2-2-err-rate-0-5": {
+            "success": 0
+        },
+        "nomystery-opt11-strips__pp11-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 16750.0
+        },
+        "mprime__pprob25-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 27545.0
+        },
+        "nomystery-opt11-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 25315.0
+        },
+        "mystery__pprob17-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob17-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps1-0-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 196.0
+        },
+        "freecell__pp01-err-rate-0-5": {
+            "success": 0
+        },
+        "tpp__pp04-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1265.0
+        },
+        "freecell__pprobfreecell-3-1-err-rate-0-5": {
+            "success": 0
+        },
+        "pegsol-08-strips__pp02-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob09-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob19-err-rate-0-1": {
+            "success": 0
+        },
+        "hiking-opt14-strips__pptesting-2-2-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1265.0
+        },
+        "miconic__ps2-1-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 448.0
+        },
+        "miconic__ps2-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 664.0
+        },
+        "scanalyzer-opt11-strips__pp04-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 3220.0
+        },
+        "rovers__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 958.0
+        },
+        "miconic__ps4-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 4093.0
+        },
+        "satellite__pp01-pfile1-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 1351.0
+        },
+        "mprime__pprob16-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-opt08-strips__pp11-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 537.0
+        },
+        "mprime__pprob10-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-2-1-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob19-err-rate-0-1": {
+            "success": 0
+        },
+        "mystery__pprob09-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob27-err-rate-0-5": {
+            "success": 0
+        },
+        "visitall-opt11-strips__pproblem03-full-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 759.0
+        },
+        "depot__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 3,
+            "total_time": 7912.0
+        },
+        "mprime__pprob08-err-rate-0-5": {
+            "success": 0
+        },
+        "mprime__pprob12-err-rate-0-5": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp11-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 559.0
+        },
+        "miconic__ps3-4-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1014.0
+        },
+        "freecell__pprobfreecell-2-2-err-rate-0-1": {
+            "success": 0
+        },
+        "pegsol-08-strips__pp05-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 4478.0
+        },
+        "visitall-opt11-strips__pproblem04-half-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1059.0
+        },
+        "rovers__pp03-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1915.0
+        },
+        "rovers__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1130.0
+        },
+        "scanalyzer-08-strips__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 835.0
+        },
+        "freecell__pprobfreecell-3-3-err-rate-0-3": {
+            "success": 0
+        },
+        "freecell__pprobfreecell-2-4-err-rate-0-1": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 498.0
+        },
+        "mystery__pprob20-err-rate-0-5": {
+            "success": 0
+        },
+        "pegsol-08-strips__pp05-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 2830.0
+        },
+        "zenotravel__pp06-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 27020.0
+        },
+        "mystery__pprob19-err-rate-0-5": {
+            "success": 0
+        },
+        "mystery__pprob25-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 31565.0
+        },
+        "scanalyzer-sat11-strips__pp01-err-rate-0-3": {
+            "success": 0
+        },
+        "miconic__ps3-2-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 747.0
+        },
+        "freecell__pprobfreecell-3-2-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob27-err-rate-0-3": {
+            "success": 0
+        },
+        "transport-opt14-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 2364.0
+        },
+        "scanalyzer-opt11-strips__pp11-err-rate-0-5": {
+            "success": 0
+        },
+        "zenotravel__pp05-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 23454.0
+        },
+        "nomystery-opt11-strips__pp02-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob12-err-rate-0-1": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp20-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-agl14-strips__ptesting-4-5-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 10851.0
+        },
+        "miconic__ps3-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 813.0
+        },
+        "mprime__pprob19-err-rate-0-3": {
+            "success": 0
+        },
+        "transport-sat08-strips__pp11-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 731.0
+        },
+        "grid__pprob01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 8920.0
+        },
+        "tetris-opt14-strips__pp02-4-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 9317.0
+        },
+        "nomystery-opt11-strips__pp13-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 138657.0
+        },
+        "scanalyzer-08-strips__pp01-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 993.0
+        },
+        "nomystery-opt11-strips__pp12-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 360805.0
+        },
+        "mystery__pprob27-err-rate-0-3": {
+            "success": 0
+        },
+        "hiking-agl14-strips__ptesting-3-4-3-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 4613.0
+        },
+        "miconic__ps1-2-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 2,
+            "total_time": 139.0
+        },
+        "mprime__pprob12-err-rate-0-3": {
+            "success": 0
+        },
+        "blocks__pprobBLOCKS-4-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 255.0
+        },
+        "blocks__pprobBLOCKS-4-0-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 217.0
+        },
+        "miconic__ps4-0-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 1,
+            "total_time": 1587.0
+        },
+        "scanalyzer-08-strips__pp28-err-rate-0-5": {
+            "success": 0
+        },
+        "hiking-agl14-strips__ptesting-4-5-3-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 9418.0
+        },
+        "freecell__pprobfreecell-3-1-err-rate-0-3": {
+            "success": 0
+        },
+        "scanalyzer-opt11-strips__pp01-err-rate-0-3": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 1545.0
+        },
+        "visitall-opt11-strips__pproblem02-half-err-rate-0-1": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 81.0
+        },
+        "mystery__pprob03-err-rate-0-3": {
+            "success": 0
+        },
+        "mprime__pprob04-err-rate-0-1": {
+            "success": 0
+        },
+        "tpp__pp01-err-rate-0-5": {
+            "success": 1,
+            "repair_size": 0,
+            "total_time": 246.0
+        }
+    },
+    "summary": {
+        "num_instances": 440,
+        "successes": 275
+    }
+}
+}
