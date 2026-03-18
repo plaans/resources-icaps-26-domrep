@@ -99,7 +99,7 @@ parse_logs_lifted_independent_100:
 
 #### Input preparation
 
-prepare_benchmarks benchmarks_folder="../benchmarks/domrep/":
+prepare_benchmarks benchmarks_folder="../../../benchmarks/domrep/":
     just _prepare_benchmarks {{benchmarks_folder}} "1000000" "plans" ".plan" "../../input/aries/benchmarks_ground.txt"
     just _prepare_benchmarks {{benchmarks_folder}} "15" "lifted_plans/033" ".plan-lifted" "../../input/aries/benchmarks_lifted_033.txt"
     just _prepare_benchmarks {{benchmarks_folder}} "15" "lifted_plans/066" ".plan-lifted" "../../input/aries/benchmarks_lifted_066.txt"
